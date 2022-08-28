@@ -1,0 +1,6 @@
+# Project exclude paths
+/mvc/target/
+/mvc_work/target/
+/spring-data-jpa/target/
+/springmvc-demo/target/
+/ssm/target/
